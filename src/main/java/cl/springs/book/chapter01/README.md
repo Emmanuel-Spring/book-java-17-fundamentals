@@ -1,0 +1,3 @@
+# Chapter 01
+Chapter 1, Strings, Numbers, and Math, includes 39 problems that involve strings, numbers, and mathematical operations. The chapter starts with a bunch of classical problems for strings such as counting duplicates, reversing a string, and removing white spaces. The chapter continues with problems dedicated to numbers and mathematical operations such as summing two large numbers, operation overflow, comparing two unsigned numbers, computing the floor of a division and a modulus, and much more. Each problem is passed through several solutions, including Java 8 functional style. Moreover, the chapter covers problems that futures added in JDK 9, 10, 11, and 12.
+
